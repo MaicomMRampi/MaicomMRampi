@@ -15,7 +15,7 @@ Crio soluções digitais focadas em performance, escalabilidade e clareza de arq
 
 ---
 
-## 🧰 Stack principal
+## 🧰 Stacks de desenvolvimento
 ![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
 ![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
