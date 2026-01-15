@@ -44,6 +44,5 @@ Crio soluções digitais focadas em performance, escalabilidade e clareza de arq
 ---
 
 ## 📬 Contato
-- LinkedIn: (adicione aqui)
 - Email: maicom.mateus@yahoo.com.br
 - Telefone: (49) 99194-2288
