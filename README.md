@@ -1,16 +1,46 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Maicom%20Rampí&fontSize=38&fontColor=ffffff)
 
-<!--
-**MaicomMRampi/MaicomMRampi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Maicom Rampí
+**Desenvolvedor de Software | Web & Backend**
 
-Here are some ideas to get you started:
+Crio soluções digitais focadas em performance, escalabilidade e clareza de arquitetura.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Atuação
+- Desenvolvimento Web moderno
+- Backend com APIs bem definidas
+- Integrações e automações
+- Código limpo, legível e sustentável
+
+---
+
+## 🧰 Stack principal
+![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
+![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql)
+
+---
+
+## 🚀 Projetos em destaque
+- **WealthPulseTypescript**  
+  Aplicação focada em organização e visualização financeira.
+
+- **projetoChatApp**  
+  Chat em tempo real com foco em simplicidade e aprendizado prático.
+
+- **portfolio**  
+  Meu site pessoal com apresentação profissional dos projetos.
+
+---
+
+## 📈 GitHub
+![Maicom's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaicomMRampi&show_icons=true&theme=tokyonight)
+
+---
+
+## 📬 Contato
+- LinkedIn: (adicione aqui)
+- Email: (adicione aqui)
