@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Maicom%20Rampí&fontSize=38&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Maicom%20Rampi&fontSize=38&fontColor=ffffff)
 
 # Maicom Rampí
 **Desenvolvedor de Software | Web & Backend**
@@ -33,7 +33,9 @@ Crio soluções digitais focadas em performance, escalabilidade e clareza de arq
 
 - **portfolio**  
   Meu site pessoal com apresentação profissional dos projetos.
-
+  
+- **boraMorar**  
+  Projeto em desenvolvimento
 ---
 
 ## 📈 GitHub
@@ -43,4 +45,5 @@ Crio soluções digitais focadas em performance, escalabilidade e clareza de arq
 
 ## 📬 Contato
 - LinkedIn: (adicione aqui)
-- Email: (adicione aqui)
+- Email: maicom.mateus@yahoo.com.br
+- Telefone: (49) 99194-2288
