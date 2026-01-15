@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Maicom%20Rampi&fontSize=38&fontColor=ffffff)
 
-# Maicom Rampí
-**Desenvolvedor de Software | Web & Backend**
+# Maicom Mateus Rampi
+**Desenvolvedor de Software | Full Stack**
 
 Crio soluções digitais focadas em performance, escalabilidade e clareza de arquitetura.
 
